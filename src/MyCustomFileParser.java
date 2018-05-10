@@ -3,5 +3,5 @@ public interface MyCustomFileParser {
     public boolean replaceWord(String word);
     public boolean deleteWord(String word);
     public boolean addWord(String word);
-//
+
 }
