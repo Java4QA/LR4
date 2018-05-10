@@ -1,4 +1,4 @@
-public interface MyCustomFileParser {
+public class MyCustomFileParser {
     public boolean findWord(String word){ }
     public boolean replaceWord(String word){ }
     public boolean deleteWord(String word){ }
